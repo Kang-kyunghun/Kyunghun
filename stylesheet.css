@@ -65,6 +65,7 @@ header {
 .introduce{
     margin: 50px;
     text-align: center;
+    justify-content: center;
 }
 
 .Myfigure {
